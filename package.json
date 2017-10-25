@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marszall87/package-lock-test/issues"
   },
-  "homepage": "https://github.com/marszall87/package-lock-test#readme"
+  "homepage": "https://github.com/marszall87/package-lock-test#readme",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
 }
